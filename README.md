@@ -21,4 +21,4 @@ Fora do mundo dos dados e das planilhas, busco disciplina e foco no **Jiu-Jitsu*
 
 ---
 📫 **Vamos nos conectar?**
-(https://www.linkedin.com/in/ingriddambros202392) | nogueiradambros@gmail.com
+https://www.linkedin.com/in/ingriddambros202392 | nogueiradambros@gmail.com
