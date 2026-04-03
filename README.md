@@ -5,7 +5,7 @@ Este repositório contém o **MVP (Minimum Viable Product)** desenvolvido para a
 ## 🚀 Sobre mim
 Especialista em **Finanças & Tesouraria** e Pós-graduanda em **Ciência de Dados e Analytics** pela PUC-Rio. Minha trajetória de 4 anos no setor financeiro agora se une ao poder da análise de dados para gerar insights estratégicos e automação de processos.
 
-### 🛠️ No que estou focada agora:
+### 🛠️ Estou vivendo agora:
 - **Data Science:** Desenvolvimento de modelos preditivos e análise exploratória (Python, Pandas, Scikit-Learn).
 - **Fintech & Tesouraria:** Interseção entre gestão de caixa, compliance e tecnologia.
 - **Business Intelligence:** Transformação de dados brutos (SAP, OMIE, Milenium) em dashboards decisivos.
