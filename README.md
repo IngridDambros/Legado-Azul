@@ -19,7 +19,12 @@ Especialista em **Finanças & Tesouraria** e Pós-graduanda em **Ciência de Dad
 ### 🥋 Além do código:
 Fora do mundo dos dados e das planilhas, busco disciplina e foco no **Jiu-Jitsu**, trazendo a mentalidade de resiliência do tatame para os desafios do ambiente corporativo.
 
-"Direitos de Propriedade Intelectual: Este projeto faz parte de uma tese acadêmica original. Para fins de parcerias ou desenvolvimento comercial da metodologia 'Abismo do Amanhã', entre em contato."
+---
+## 🔐 Propriedade Intelectual e Contato
+
+Este projeto, incluindo a metodologia **"Abismo do Amanhã"** e a arquitetura conceitual do **"Legado Azul"**, faz parte de uma tese acadêmica original desenvolvida para a pós-graduação em Ciência de Dados e Analytics (PUC-Rio).
+
+Todos os direitos são reservados. Para fins de parcerias, desenvolvimento comercial ou utilização da metodologia, entre em contato via LinkedIn ou abra uma *Issue* neste repositório.
 
 ---
 📫 **Vamos nos conectar?**
