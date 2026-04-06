@@ -19,6 +19,8 @@ Especialista em **Finanças & Tesouraria** e Pós-graduanda em **Ciência de Dad
 ### 🥋 Além do código:
 Fora do mundo dos dados e das planilhas, busco disciplina e foco no **Jiu-Jitsu**, trazendo a mentalidade de resiliência do tatame para os desafios do ambiente corporativo.
 
+"Direitos de Propriedade Intelectual: Este projeto faz parte de uma tese acadêmica original. Para fins de parcerias ou desenvolvimento comercial da metodologia 'Abismo do Amanhã', entre em contato."
+
 ---
 📫 **Vamos nos conectar?**
 [LinkedIn](https://www.linkedin.com/in/ingriddambros202392) | nogueiradambros@gmail.com
